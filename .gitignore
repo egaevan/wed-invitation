@@ -1,0 +1,8 @@
+.env
+.idea/
+Icon?
+*DS_Store
+.vscode/
+./main*
+./api*
+*.exe
