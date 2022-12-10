@@ -1,0 +1,290 @@
+/*
+	@name message
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px; width: 414px; height: 1276px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_message_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1276px;
+}
+
+#_bg__message_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1276px;
+	background:rgba(255,255,255,1);
+}
+
+#ucapan {
+	top: 372px;
+	left: 43px;
+	width: 328px;
+	height: 561px;
+}
+
+#union {
+	top: 0px;
+	left: 0px;
+	width: 328px;
+	height: 561px;
+}
+
+
+#pngegg__10__2 {
+	top: 107px;
+	left: 80px;
+	width: 166px;
+	height: 66px;
+}
+
+#input_default {
+	top: 238px;
+	left: 21px;
+	width: 291px;
+	height: 38px;
+}
+
+#outline_bg {
+	top: 0px;
+	left: 0px;
+	width: 293px;
+	height: 40px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #b4b4bb;
+	background:rgba(255,255,255,1);
+}
+
+
+#placeholder {
+	top: 5.94px;
+	left: 16px;
+	width: 277.5px;
+	height: 35.63px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 13px;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -6.3333333333333px;
+	height: 48.63px;
+	letter-spacing: 0.43999999761581px;
+	color:#787885;
+}
+
+
+#vector {
+	top: 9.14px;
+	left: 9.14px;
+	width: 13.71px;
+	height: 13.71px;
+}
+
+
+#vector_ek1 {
+	top: 9.14px;
+	left: 9.14px;
+	width: 13.71px;
+	height: 13.71px;
+}
+
+
+#nama {
+	top: 216px;
+	left: 23px;
+	width: 54.5px;
+	height: 24.5px;
+	overflow: hidden;
+	font-family: Work Sans;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+#input_default_ek1 {
+	top: 319px;
+	left: 21px;
+	width: 291px;
+	height: 123px;
+}
+
+#outline_bg_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 293px;
+	height: 125px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #b4b4bb;
+	background:rgba(255,255,255,1);
+}
+
+
+#placeholder_ek1 {
+	top: 19.22px;
+	left: 16px;
+	width: 277.5px;
+	height: 94.06px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 13px;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -6.3333333333333px;
+	height: 107.06px;
+	letter-spacing: 0.43999999761581px;
+	color:#787885;
+}
+
+#x_ek1 {
+	top: 46px;
+	left: 247px;
+	width: 32px;
+	height: 32px;
+}
+
+#vector_ek2 {
+	top: 9.14px;
+	left: 9.14px;
+	width: 13.71px;
+	height: 13.71px;
+}
+
+
+#vector_ek3 {
+	top: 9.14px;
+	left: 9.14px;
+	width: 13.71px;
+	height: 13.71px;
+}
+
+
+#ucapan_ek1 {
+	top: 297px;
+	left: 24px;
+	width: 65.5px;
+	height: 24.5px;
+	overflow: hidden;
+	font-family: Work Sans;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kehadiranmu_sangat_berharga_bagi_kami {
+	top: 182px;
+	left: 47px;
+	width: 258px;
+	height: 24.5px;
+	overflow: hidden;
+	font-family: Work Sans;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#ica___ega {
+	top: 21px;
+	left: 61px;
+	width: 212px;
+	height: 98px;
+	overflow: hidden;
+	font-family: Caladea;
+	font-size: 24px;
+	text-align: center;
+	line-height: 23.159999370575px;
+	padding-top: 0.84000062942505px;
+	margin-top: -0.84000062942505px;
+	color:#955900;
+}
+
+
+#rectangle_34 {
+	top: 474px;
+	left: 21px;
+	width: 291px;
+	height: 36px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(187,144.15,149.68,1);
+}
+
+
+#kirim {
+	top: 484px;
+	left: 131px;
+	width: 75px;
+	height: 24.5px;
+	overflow: hidden;
+	font-family: Work Sans;
+	font-size: 13px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#image_22 {
+	top: 12px;
+	left: -116px;
+	width: 625px;
+	height: 312px;
+}
+
+#top {
+	top: 0px;
+	left: -1px;
+	width: 414px;
+	height: 44.78px;
+}
+
+#rectangle_35 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 44.78px;
+	background:rgba(254,223,227,1);
+}
+
+
+#i___e {
+	top: 12px;
+	left: 179px;
+	width: 66px;
+	height: 37.2px;
+	overflow: hidden;
+	font-family: Caladea;
+	font-size: 24px;
+	text-align: center;
+	line-height: 23.159999370575px;
+	padding-top: 0.84000062942505px;
+	margin-top: -0.84000062942505px;
+	color:#955900;
+}
+
+
+
+/* Add your custom CSS here */
